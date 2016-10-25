@@ -1,5 +1,9 @@
 # Angular 2 - Routing with multiple modules
 
+### Node versions used
+* node - v6.5.0
+* npm - 3.10.3
+
 ### Run the app
 * Run `npm install` in the project directory. **# only for first run**
 * Run `npm start` to start the application in watch mode.
